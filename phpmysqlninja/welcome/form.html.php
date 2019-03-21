@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=a, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+</head>
+<body>
+
+<form action="" method="post">
+    
+    <div><label for="firstname">First name: 
+        <input type="text" name="firstname" id="firstname">
+    </label>
+    </div>
+    <div><label for="lastname">Last name: 
+        <input type="text" name="lastname" id="lastname">
+    </label>
+
+    </div>
+    <div><input type="submit" value="GO"></div>
+</form>
+
+
+
+</body>
+</html>
